@@ -1,0 +1,22 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "creating first app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/code2Lakshya/React.git"
+  },
+  "author": "lakshya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code2Lakshya/React/issues"
+  },
+  "homepage": "https://github.com/code2Lakshya/React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
